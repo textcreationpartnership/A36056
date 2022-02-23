@@ -1,0 +1,756 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions to fame, about an elegy on the late deceased Thomas Thynn, Esq. and an eulogy on other most famous English worthies / by an unknown author.</title>
+            <author>Unknown author.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36056</idno>
+            <idno type="STC">Wing D1538</idno>
+            <idno type="STC">ESTC R11506</idno>
+            <idno type="EEBO-CITATION">12331469</idno>
+            <idno type="OCLC">ocm 12331469</idno>
+            <idno type="VID">59688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 208:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions to fame, about an elegy on the late deceased Thomas Thynn, Esq. and an eulogy on other most famous English worthies / by an unknown author.</title>
+                  <author>Unknown author.</author>
+               </titleStmt>
+               <extent>[7], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.S. and are to be sold by Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thynne, Thomas, 1648-1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59688:1"/>
+            <pb facs="tcp:59688:1" rendition="simple:additions"/>
+            <p>DIRECTIONS TO FAME, ABOUT AN ELEGY On the Late Deceaſed Thomas Thynn, <abbr>Eſq</abbr> AND AN EULOGY On other moſt Famous Engliſh Worthies.</p>
+            <p>
+               <hi>By an Vnknown Author.</hi>
+            </p>
+            <p>— <hi>It Fama per Orbem</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. S.</hi> and are to be Sold by <hi>Richard Bald<g ref="char:EOLhyphen"/>win,</hi> in the <hi>Old-Baily,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59688:2" rendition="simple:additions"/>
+            <pb facs="tcp:59688:2"/>
+            <head>TO THE Lady OGLE, The Suppoſed RELICT OF THE LATE DECEASED <hi>Thomas Thynn. Eſquire.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <l>To You theſe Verſes I Addreſs;</l>
+            <l>
+               <hi>Addreſſes</hi> are the Mode, if they expreſs</l>
+            <l>Abhorrence of a late <hi>Aſſociation:</hi>
+            </l>
+            <l>How ſhould I then exceed that part o'th' Nation,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nleſs I do abhor their curſt deſigne;</l>
+            <l>Who the Great <hi>Thynn</hi> to Murder did combine?</l>
+            <l>I may the ſame <hi>Addreſſors</hi> Copy own,</l>
+            <l>The Reaſon why I trouble you unknown:</l>
+            <pb facs="tcp:59688:3"/>
+            <l>If they, to ſhew their Loyalty and Love,</l>
+            <l>By late <hi>Addreſſing</hi> to the Pow'rs above,</l>
+            <l>Did not themſelves too too officious prove:</l>
+            <l>Why ſhould I think your goodneſs would refuſe,</l>
+            <l>At leaſt, to pardon this my humble Muſe</l>
+            <l>For her Attempt, the Great <hi>Thynn</hi>'s Memory</l>
+            <l>To Conſecrate unto Eternity?</l>
+            <l>To whom could <hi>She</hi> with greater Right apply</l>
+            <l>Her ſelf, then unto You; who may be thought</l>
+            <l>The Accidental Cauſe, that Fam'd <hi>Thynn</hi> brought</l>
+            <l>To his untimely Death? Whom for your Friend,</l>
+            <l>She hopes you'l own; were it but for his end?</l>
+            <l>How Ill! Enjoyment thus to be deny'd;</l>
+            <l>To have the ſhadow only of a Bride!</l>
+            <l>Hard Fate of Man! That being a Slave to's Word,</l>
+            <l>And ſcorning to be falſe to his accord,</l>
+            <l>Occaſion thence ſhould riſe, that to his Life,</l>
+            <l>The period puts. The Angry Siſters Knife</l>
+            <pb facs="tcp:59688:3"/>
+            <l>Could nought withhold, from cutting of the thread?</l>
+            <l>Hard-hearted (Deſtinys!) to Write <hi>Thynn</hi> dead!</l>
+            <l>Yet ſo it is. Such the event may prove,</l>
+            <l>When they, whoſe Age hath quaſht all thoughts of Love,</l>
+            <l>Attempt by needleſs promiſes to bind</l>
+            <l>Lovers from that, to which they're moſt enclind.</l>
+            <l>As if Engagements alter could the mind,</l>
+            <l>And Youthful Heats be by ſuch Bonds confin'd.</l>
+            <l>We know that Love doth to it's Center tend:</l>
+            <l>Fruition is the longing Lovers end.</l>
+            <l>Would Old Age then this, as Youth's Error mend?</l>
+            <l>Tho' you refus'd the Great <hi>Thynn</hi> in his Life,</l>
+            <l>For your Eſpous'd to own, your ſelf his Wife;</l>
+            <l>Yet now he's dead, you need no ſcruple make,</l>
+            <l>Were it but for the promis'd Joyntures ſake.</l>
+            <l>Your Pardon, Madam, I again Implore,</l>
+            <l>To you I have one ſmall Petition more:</l>
+            <pb facs="tcp:59688:4"/>
+            <l>Petitions to a Lady, I do hope,</l>
+            <l>Will not by <hi>Tory</hi> be abhorr'd, nor <hi>Pope.</hi>
+            </l>
+            <l>When ſome great <hi>Hero</hi> ſhall you next time Wed,</l>
+            <l>Let joyful <hi>Hymen</hi> lead you both to Bed.</l>
+            <l>I doubt not but you'l take this in good part,</l>
+            <l>Well follow'd it may pleaſe you to the heart.</l>
+            <l>Wives pleas'd by Night are likely ſo by Day;</l>
+            <l>And then no fear that they will run away.</l>
+            <l>Beſides, that danger is bred by delay,</l>
+            <l>Youth's Blooming hopes with Patience cannot ſtay.</l>
+            <l>Your hopes therefore too long do not defer;</l>
+            <l>So humbly Prays your poor Petitioner.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59688:4"/>
+            <head>DIRECTIONS TO FAME, &amp;c.</head>
+            <lg>
+               <l>THou Daughter of the Sphear, thou Voice of Air,</l>
+               <l>See that to me thou hither ſtrait repair;</l>
+               <l>Some few Directions I have Thee to give,</l>
+               <l>That <hi>Engliſh Worthies</hi> Names may ever live.</l>
+            </lg>
+            <lg>
+               <l>Firſt, Put thy Trumpet to thy Mouth, and ſound</l>
+               <l>A ſhrill, a loud, a long Note all around,</l>
+               <l>From Heav'ns high Arch to Places under Ground:</l>
+               <l>That all the Nations of the World may hear</l>
+               <l>Thy Trumpet's Voice. See that thy Sound be clear.</l>
+               <pb n="2" facs="tcp:59688:5"/>
+               <l>Now take a little Breath. Well! So begin,</l>
+               <l>And loudly found the Name of the <hi>Great Thynn,</hi>
+               </l>
+               <l>
+                  <hi>Prince Thynn, Tom of Ten Thouſands;</hi> whoſe great Mind,</l>
+               <l>Not in one Town, Hundred, or Shire confin'd,</l>
+               <l>Sought his whole Country's Good; both far and near</l>
+               <l>A Patriot fam'd. See that thou blow this clear.</l>
+               <l>Then breath a while. Well! Now begin agen,</l>
+               <l>And ſound forth Baſeneſs of ungrateful Men:</l>
+               <l>How ſome him hated, how ſome angry were;</l>
+               <l>Some him oppos'd, nor could his Merit bear;</l>
+               <l>How his juſt Praiſes ſome abhorr'd to hear,</l>
+               <l>Becauſe a Patriot true he did appear.</l>
+               <l>Take breath again: Then blow, how others juſt</l>
+               <l>Were to his Worth, and in him plac'd their Truſt;</l>
+               <l>And lov'd, admir'd, ador'd this Patriot true:</l>
+               <l>Sound therefore forth his Praiſes; 'tis his due.</l>
+            </lg>
+            <lg>
+               <l>For thy next Task, Great <hi>Monmouth</hi>'s Glory take,</l>
+               <l>Which more than ten or twelve great Blaſts may make.</l>
+               <pb n="3" facs="tcp:59688:5" rendition="simple:additions"/>
+               <l>Take therefore Breath; then loudly trumpet forth</l>
+               <l>This Martial <hi>Hero, Monmouth</hi>'s matchleſs Worth;</l>
+               <l>For Valour fam'd Abroad, well known at Home;</l>
+               <l>Of <hi>Proteſtants</hi> belov'd, and fear'd of <hi>Rome.</hi>
+               </l>
+               <l>Sound forth his Glory gain'd in Forreign Wars;</l>
+               <l>A Souldier's Wounds are honourable Scars:</l>
+               <l>How he at <hi>Maeſtrich</hi>-Seige got great Renown,</l>
+               <l>And how he twice for <hi>Lewis</hi> won the Town.</l>
+               <l>Let the fam'd Battle of <hi>Mons</hi> his Valour ſound;</l>
+               <l>Where <hi>Orange,</hi> by his Aid; of <hi>France</hi> got Ground.</l>
+               <l>Tell how the Name of <hi>Monmouth</hi> ran before,</l>
+               <l>To us being eccho'd from the <hi>Belgick</hi>-Shore;</l>
+               <l>Which, at's Arrival, made us ſtrait adore,</l>
+               <l>And ev'ry day admire him more and more.</l>
+               <l>So that, for all the late Court-Reformation,</l>
+               <l>He ſtill doth live the Darling of the Nation.</l>
+               <l>Then next, reſound his Progreſs in the Weſt,</l>
+               <l>Where the Great <hi>Thynn</hi> for him kept conſtant Feaſt:</l>
+               <pb n="4" facs="tcp:59688:6"/>
+               <l>How Multitudes, Hundreds, and Thouſands ſtrong,</l>
+               <l>Men, Women, Children, numberleſs did throng,</l>
+               <l>To ſee Great <hi>Monmouth,</hi> as he paſs'd along:</l>
+               <l>How Gentry, Yeomen, flock at his Renown,</l>
+               <l>To welcom him into each Country Town:</l>
+               <l>How Men admire, the Women him approve;</l>
+               <l>And each Sex ſtrive, who ſhould him ſhew moſt love.</l>
+               <l>From <hi>Avon</hi>'s Bank to <hi>Middl'ton</hi>'s River ſound,</l>
+               <l>And let it back to <hi>Exeter</hi> rebound.</l>
+               <l>His <hi>Oxford</hi>-Journey eccho'd loud from <hi>Iſis,</hi>
+               </l>
+               <l>Along the curling Waves of proud <hi>Thamiſis,</hi>
+               </l>
+               <l>Relate; and what great Joy did fill the Town,</l>
+               <l>Whil'ſt all ſpoke of our <hi>Monmouth</hi>'s high Renown.</l>
+               <l>
+                  <hi>Monmouth</hi> &amp; <hi>Thynn,</hi> thoſe two great Names of Worth,</l>
+               <l>Together joyn'd, a lovely Pair ſound forth.</l>
+            </lg>
+            <lg>
+               <l>Next, <hi>Shaftsbury</hi> may make more than a Blaſt,</l>
+               <l>Or two, or ten; his Wiſdom, Judgment vaſt,</l>
+               <pb n="5" facs="tcp:59688:6" rendition="simple:additions"/>
+               <l>His politick Head, his thinking Mind, his Care</l>
+               <l>For King and Country, all Theams noble are,</l>
+               <l>Which would require to ſhew thy Art moſt rare.</l>
+               <l>Canſt thou deſire a larger Field for Art?</l>
+               <l>Mine to Direct, to Perfect is thy Part.</l>
+               <l>Come Trumpetter, ſhew us thy greateſt Skill,</l>
+               <l>Breath, and thy blubby Cheeks with freſh Air fill.</l>
+               <l>What's Great mix not with mean. I would have none</l>
+               <l>To him a Pillar raiſe of Common Stone.</l>
+               <l>Birth, Riches, Honours, Parts, and Worldly State,</l>
+               <l>Are gifts to many Men diſpens'd by Fate.</l>
+               <l>Give me the man, <hi>
+                     <g ref="char:V">Ʋ</g>ſurpers</hi> fear and dread,</l>
+               <l>That him muſt court, and uſe, yet wiſh him dead.</l>
+               <l>Now, now thy Skill, thou Daughter of the Sphear,</l>
+               <l>Here's one great Stone his Pillar for to rear.</l>
+               <l>From Towns 'tis not uncommon to be ſent,</l>
+               <l>Or Shires, (ſo many are) to Parliament.</l>
+               <pb n="6" facs="tcp:59688:7"/>
+               <l>But <hi>Is the Man of Three Names alſo choſe,</hi>
+               </l>
+               <l>For <hi>Noll</hi> to ask: What eminence this ſhows?</l>
+               <l>
+                  <hi>Noll</hi> was too wiſe to dread mean, common Foes.</l>
+               <l>When late <hi>
+                     <g ref="char:V">Ʋ</g>ſurping</hi> Pow'rs were tumbling down,</l>
+               <l>How many then return'd to help the Crown?</l>
+               <l>Great <hi>Charles</hi> reſtore, that he might all Command:</l>
+               <l>The common Act of almoſt the whole Land.</l>
+               <l>But where's the few, who own'd him in Exile,</l>
+               <l>When <hi>Cromwel</hi>'s Iron Rod rul'd all the Iſle?</l>
+               <l>Yet ſome there were, and Thouſands too perchance,</l>
+               <l>That Lov'd him, tho' (Exil'd) he liv'd in <hi>France.</hi>
+               </l>
+               <l>This many boaſt. But where's the Man-of Senſe,</l>
+               <l>Who him preſerv'd by his Intelligence?</l>
+               <l>Who dar'd to own, tho' ſecretly, his Cauſe,</l>
+               <l>For which he muſt by the <hi>
+                     <g ref="char:V">Ʋ</g>ſurper</hi>'s Laws</l>
+               <l>Aſſuredly have dy'd, had it been known,</l>
+               <l>And for the Kings Life ſav'd have loſt his own?</l>
+               <pb n="7" facs="tcp:59688:7" rendition="simple:additions"/>
+               <l>But two Stones more this Pillar up to raiſe</l>
+               <l>May ſerve, a laſting Trophy to his praiſe.</l>
+               <l>By parts, and Vertue, from Gentility,</l>
+               <l>To be rais'd up unto Nobility,</l>
+               <l>Is not unuſual, or a thing ſo rare,</l>
+               <l>But that in Story Inſtances there are.</l>
+               <l>But for a Subject to have on him thrown,</l>
+               <l>From King and Country's Enemies, and his own,</l>
+               <l>The utmoſt of their Spleen, Wrath, Malice, Rage,</l>
+               <l>How rare? ſcarce ſuch an Inſtance in an Age.</l>
+               <l>How great's that Man, whoſe very Enemies</l>
+               <l>Would laviſh for his Life ſo great a prize,</l>
+               <l>As Credit, Honour, Bodies, Souls, Eſtate,</l>
+               <l>So he might fall a Victim to their hate?</l>
+               <l>And why ſuch hate to the Great <hi>Shaftsbury?</hi>
+               </l>
+               <l>'Tis plain, they are afraid our Liberty</l>
+               <l>They ſhall not be inabled to deſtroy,</l>
+               <l>As long' as <hi>Charles,</hi> and <hi>He</hi> their Lives Enjoy.</l>
+            </lg>
+            <pb n="8" facs="tcp:59688:8"/>
+            <lg>
+               <l>One great Stone more can we but now procure,</l>
+               <l>'Twill be enough; and if of Signature</l>
+               <l>Royal, ſo much the better ſtill. Come, Fame,</l>
+               <l>Search thy Records, turn unto <hi>Shaftsbury</hi>'s Name.</l>
+               <l>Know'ſt not where 'tis? Search one of th' higheſt Rooms</l>
+               <l>Within thy Temple, 'mongſt the Great Mens dooms.</l>
+               <l>There, there! Turn o're the Leaves of that great Book,</l>
+               <l>And for the Name in Capital Letters look.</l>
+               <l>Haſt found it? Well! What ſtands there on Record?</l>
+               <l>What's the report thou mad'ſt of the King's Word?</l>
+               <l>What did Great <hi>Charles</hi> ſay of this Noble Lord?</l>
+               <l>Speak boldly: Shaftsbury <hi>Me out would bring,</hi>
+               </l>
+               <l>
+                  <hi>When I am into Trouble brought.</hi> What thing</l>
+               <l>Can greater be, than thus t'oblige a King?</l>
+               <l>Are theſe the very words? I'm ſure the ſence</l>
+               <l>Is not miſtook, if true th'Intelligence.</l>
+               <l>Fly then, ye Slanderers, from Pulpit, Court,</l>
+               <l>From Church, from State, thither no more reſort.</l>
+               <pb n="9" facs="tcp:59688:8" rendition="simple:additions"/>
+               <l>Go to, go to, ye Stateſ-men, that pretend</l>
+               <l>The Government (but Tinker-like) to mend.</l>
+               <l>One hole to ſtop, but two, ten, twenty make;</l>
+               <l>Who'l this for Policy, Craft or Prudence take?</l>
+               <l>To praiſe your little ſelves, ſome ſcribling Pen</l>
+               <l>Gold Ore can hire, and diſpraiſe greater Men.</l>
+               <l>Much of that Authors Rate, who lately writ</l>
+               <l>Of <hi>Abſalom,</hi> and <hi>Achitophel</hi>'s great wit.</l>
+               <l>How eaſy 'tis; nor is't a thing ſo rare,</l>
+               <l>For Poets to cry up, when they compare</l>
+               <l>A Pigmy Muſhroom to a great Man's Name;</l>
+               <l>And that's the <hi>Poet</hi>'s, not his <hi>Hero</hi>'s Fame.</l>
+               <l>He, who can bring Eclipſes on the Stage,</l>
+               <l>His Muſe can ſuit to this, and the laſt Age,</l>
+               <l>Can his Play's Epilogues ſo dext'rous make,</l>
+               <l>As for his Prologues ſome may them miſtake:</l>
+               <l>And with more readineſs his Prologues turn</l>
+               <l>To Epilogues, than for's Religion burn.</l>
+               <pb n="10" facs="tcp:59688:9" rendition="simple:additions"/>
+               <l>How eaſily theſe <hi>Hero</hi>'s of his Pen,</l>
+               <l>Of Muſhrooms may he fancy into Men?</l>
+               <l>The ſooner, if by Sonnets he did more,</l>
+               <l>Than Pious Prieſts could ever do before,</l>
+               <l>And to Religion turn'd his own dear Whore.</l>
+               <l>So rare an Art, perchance, might fill his Mind</l>
+               <l>With Thoughts unfitting, much above his Kind;</l>
+               <l>And make him think, 'twas eaſie for his Verſe</l>
+               <l>
+                  <hi>Heroes</hi> to raiſe, and whom he pleas'd depreſs.</l>
+               <l>He, who out of the Quagmire of his Brain,</l>
+               <l>Could ſtart up <hi>David</hi>'s Harp to <hi>Charles</hi>'s Wain;</l>
+               <l>With how great Eaſe, even as the Maggot works,</l>
+               <l>He may Chriſtians fancy Pagans, Jews, or Turks?</l>
+               <l>His Hackney-Muſe for ſome great Dame might paſs,</l>
+               <l>Would we but view her Face in the falſe Glaſs</l>
+               <l>Of his own Fancy: But ſince ſhe rode Poſt,</l>
+               <l>Old <hi>Noll,</hi> becauſe Victorious, to accoſt;</l>
+               <l>And ſtill perhaps, for Gold, would court his Ghoſt.</l>
+               <pb n="11" facs="tcp:59688:9" rendition="simple:additions"/>
+               <l>What can we think her but a Proſtitute,</l>
+               <l>Who doth to change her Self ſo often ſuit?</l>
+               <l>No wonder then, that ſhe doth repreſent</l>
+               <l>Men from themſelves, and Truth quite different.</l>
+               <l>So in the Jaundice, oft things Yellow ſhew,</l>
+               <l>And from falſe Opticks, Species falſe do flow.</l>
+               <l>But when State-ſtorms ſhall wipe theſe Colours off,</l>
+               <l>How mean ſhe'll look, beneath each Foot-Boys Scoff?</l>
+               <l>Then Prieſt-craft might the Poet pleaſe again;</l>
+               <l>Inſtead of Rhiming Plays, the Country-Swain</l>
+               <l>Doctrine to teach and uſe, with Application,</l>
+               <l>Enough to raviſh the whole Rhiming Nation.</l>
+               <l>Then might the Bays become Canonical,</l>
+               <l>And Lawrel grow upon the Churches Wall.</l>
+               <l>How pretty would it be, to ſee <hi>Apollo</hi>
+               </l>
+               <l>To haſten thither, and his long Train follow</l>
+               <l>Of Poets, Poetaſters, and the Muſes?</l>
+               <l>How would they hearken to the Poet's Uſes?</l>
+               <pb n="12" facs="tcp:59688:10" rendition="simple:additions"/>
+               <l>To ſee fair <hi>Chloris,</hi> and the lovely <hi>Philis,</hi>
+               </l>
+               <l>The Shepherd <hi>Damon,</hi> the ſweet <hi>Amaryllis,</hi>
+               </l>
+               <l>With her <hi>Amintor,</hi> come in hand and hand,</l>
+               <l>And to the preaching Poet liſtening ſtand?</l>
+               <l>How rare would this be? Oh, the bleſſed Time,</l>
+               <l>To hear the Bells Poetick Muſick chime!</l>
+               <l>And then the Sermon too might be in Rhime.</l>
+               <l>To ſee the Garlands hanging, and the VVreaths,</l>
+               <l>The Pulpit ſtuck with Bays, from whence he breaths</l>
+               <l>Soft gentle VVhiſpers on the Rhimers under;</l>
+               <l>And then the Cuſhion Thumps, and ſo does thunder</l>
+               <l>In ſharp Reproofes, Corrects their Poetry,</l>
+               <l>Shews where their mounting fancy ſoars too high,</l>
+               <l>And where their humble muſe too low doth fly;</l>
+               <l>And then (like Learned Preacher) makes Digreſſion</l>
+               <l>With little wit, leſs ſhame, and no Diſcretion;</l>
+               <l>Our great Men's Lives to ſatyrize pretends,</l>
+               <l>And ſo with railing, 'ſtead of Bleſſing ends.</l>
+               <pb n="13" facs="tcp:59688:10" rendition="simple:additions"/>
+               <l>How ſoon would then drink-Water Poets ſhun</l>
+               <l>
+                  <hi>Parnaſſus,</hi> and unto his Sermon Run?</l>
+               <l>How well this Prieſt would ſute unto his Nun;</l>
+               <l>Should he take that time to preach up the Pope,</l>
+               <l>And Chriſten Bells? but then beware the Rope.</l>
+               <l>For ſuch bold prancks would hardly ſcape the Laws.</l>
+               <l>"Nought then would ſerve to prop his tottering cauſe.</l>
+               <l>His Holy Water, though drawn from the ſtream</l>
+               <l>That gently flows from the fain'd <hi>Hipparene;</hi>
+               </l>
+               <l>Would not the devil-a-Beadle keep away</l>
+               <l>Nor thunder from the Lawrel nor from Bay</l>
+               <l>The Lightning: while the Amorous <hi>David</hi> lives,</l>
+               <l>And to Religions Laws full vigour gives.</l>
+               <l>Whilſt Noble <hi>Shaftsbury</hi> ſtands Armour proof,</l>
+               <l>Let Weather riſe, or winds blow ne're ſo rough.</l>
+               <l>So ſolid is his Truth, his Loyalty,</l>
+               <l>It needs no Art its worth to magnifie,</l>
+               <l>Muchleſs can Hackney-Pens it Vilify.</l>
+               <pb n="14" facs="tcp:59688:11"/>
+               <l>What think'ſt now, Fame? where ſome great Architect</l>
+               <l>Shall we procure, this Pillar to Erect?</l>
+               <l>The grand Materials thou ſeeſt ready there,</l>
+               <l>Where's then the Maſter-Builder it to rear?</l>
+               <l>But now, I think; we need not ſo much care</l>
+               <l>For Tools or Workmen; the Stones ready are.</l>
+               <l>What matter is't, tho' they be roughly hewn?</l>
+               <l>The ſolid firmneſs will be better ſhewn.</l>
+               <l>The Work commends th' Artificer, not the Stone.</l>
+               <l>That pleaſes moſt, which is moſt natural:</l>
+               <l>Theſe Stones then caſt together, as they fall,</l>
+               <l>So let them lye, they cannot fall amiſs:</l>
+               <l>That Truth is beſt, which plain, and artleſs, is.</l>
+               <l>Who e're a laſting Trophy would erect,</l>
+               <l>Materials good, and ſound, he doth expect:</l>
+               <l>Not Tinſel ware, guilt o're, when nought lies under,</l>
+               <l>But baſe vile traſh; this ne're will make a wonder.</l>
+               <pb n="15" facs="tcp:59688:11"/>
+               <l>Fam'd Artleſs <hi>Stonehenge</hi> on the <hi>Wiltſhire</hi>-plains,</l>
+               <l>Is more admir'd among the <hi>Weſtern</hi> Swains,</l>
+               <l>Than the carv'd Heads, how'ere ſo natural,</l>
+               <l>Which they at <hi>Chriſtmaſs</hi> ſee in Landlords Hall.</l>
+               <l>Unto the Learned likewiſe I appeal,</l>
+               <l>Whether of Nature this doth not reveal</l>
+               <l>More, and of wonder, than <hi>Mauſolus</hi> Tomb,</l>
+               <l>Or <hi>Aegypts Piramids.</hi> I'le ſtand their Doom.</l>
+               <l>Were cry'd-up <hi>Dryden</hi> Judge, I need not care.</l>
+               <l>Here's not vile ſtuff, nor Counterfeited ware,</l>
+               <l>Us'd, this Triumphant Pillar for to rear.</l>
+               <l>Such leave to him, who with falſe weights of late,</l>
+               <l>The <hi>Medal</hi> weigh'd, that when he would create</l>
+               <l>Some guilded Fop into a Man of State;</l>
+               <l>He may have where-withal the doughty piece</l>
+               <l>To deck, and ſo fetch home the Golden Fleece.</l>
+               <pb n="18" facs="tcp:59688:12"/>
+               <l>What matter is't how little Truth be writ,</l>
+               <l>So that there be the Varniſh of ſome wit?</l>
+               <l>And yellow Boys have ſoundly paid for it.</l>
+               <l>Theſe charmers make his Sp'rit of Poetry come;</l>
+               <l>So <hi>Peter-Pence</hi> can Bleſs, or Curſe, from <hi>Rome.</hi>
+               </l>
+               <l>Small Honeſty, leſs Truth, and little wit</l>
+               <l>For ſome mens Fame will make a Poet fit,</l>
+               <l>Out of no worth great praiſes to create,</l>
+               <l>And then an <hi>Hero</hi> make, not made by Fate;</l>
+               <l>Deed great enough for <hi>Poet Lawreate.</hi>
+               </l>
+               <l>But if in <hi>Helicon</hi> theſe be the Laws</l>
+               <l>
+                  <hi>Apollo</hi> makes, who would eſpouſe his Cauſe?</l>
+               <l>Who but a true Conformiſt in all ways,</l>
+               <l>To what is uppermoſt, through all his days.</l>
+               <l>Let no man envy then the <hi>Poet's Bayes;</hi>
+               </l>
+               <l>Who, that he might not a Diſſenter prove,</l>
+               <l>Seems by his Acts reſolv'd to fall in Love</l>
+               <pb n="17" facs="tcp:59688:12"/>
+               <l>With this looſe Age's Vices, Whoring, Drinking,</l>
+               <l>Lewd Railing, Scribling much, and little thinking,</l>
+               <l>With Huffing, Roaring, Ranting, Damning, Sinking.</l>
+               <l>But let him like his fancy'd <hi>Froggs</hi> croak on,</l>
+               <l>And 'ſtead of <hi>Medals,</hi> write <hi>Sedition;</hi>
+               </l>
+               <l>Until, by his own croaking ſound, and ta'ne,</l>
+               <l>He live a Slave to ſome proud <hi>Tory</hi> Crane,</l>
+               <l>And for him then ſmall <hi>Panegyricks</hi> frame.</l>
+               <l>So now to's <hi>Frog</hi>-like croaking leave him, Fame,</l>
+               <l>(The generous <hi>Eagle</hi> ſcorns ſo mean a Game,)</l>
+               <l>And let's return to our great Man of Name:</l>
+               <l>To whom this Pillar, of choice Stones prepar'd,</l>
+               <l>To future Ages laſting thou haſt rear'd.</l>
+               <l>'Tis Marble true, that ſtands both Wind and Weather,</l>
+               <l>Tho Rain, Hail, Snow, in Storms come all together.</l>
+               <l>Now, Fame, thy utmoſt aid I do Implore,</l>
+               <l>To fill each Iſle, each Creek, each Nook, each Shore,</l>
+               <l>With <hi>Shaftsbury</hi>'s great Name. What can'ſt thou more?</l>
+               <pb n="18" facs="tcp:59688:13"/>
+               <l>O're Hills, o're Dales, o're Deſart Plains it ſound,</l>
+               <l>And when it ſhall have paſt the whole VVorld round,</l>
+               <l>Let it's loud Eccho back to us rebound.</l>
+            </lg>
+            <lg>
+               <l>His Seconds, <hi>Howard, Grey,</hi> and <hi>Cav'ndiſh</hi> Name,</l>
+               <l>And not forget ſome other Nobles Fame,</l>
+               <l>
+                  <hi>Kent, Eſſex, Wharton, Lovelace, Buckingham,</hi>
+               </l>
+               <l>With <hi>Salisbury,</hi> and other Famous Lords,</l>
+               <l>Whoſe Names and Merits ſwell up thy Records:</l>
+               <l>Fam'd Patriots, not in late Poets ſenſe,</l>
+               <l>"<hi>As thoſe who would by Law ſupplant their Prince;</hi>
+               </l>
+               <l>But ſuch, whoſe wiſhes are to have <hi>Charles</hi> Great,</l>
+               <l>That He might ever fill his Fathers Seat</l>
+               <l>With as great Luſtre, Majeſty and Honour,</l>
+               <l>As fit it is to ask of the Great Donor.</l>
+            </lg>
+            <lg>
+               <l>Hold now, retire to fetch more breath; and then</l>
+               <l>Sound forth our <hi>Commons,</hi> true, Old <hi>Engliſh Men,</hi>
+               </l>
+               <pb n="19" facs="tcp:59688:13"/>
+               <l>Who would not ſell their Country's Right for Gold,</l>
+               <l>Their names, their worth, their number ſhould be told;</l>
+               <l>Couldſt thou but promiſe me thy breath would hold:</l>
+               <l>However ſound in gen'ral their Renown;</l>
+               <l>They are well known in Country, and in Town.</l>
+            </lg>
+            <lg>
+               <l>In the next place, to wiſh who can forbear,</l>
+               <l>The praiſe of Old, and of New <hi>Shrieves</hi> to hear,</l>
+               <l>In <hi>London</hi> fam'd Triumphant? Sound this clear.</l>
+               <l>Fam'd <hi>Bethel, Corniſh, Pilkington,</hi> and <hi>Shute;</hi>
+               </l>
+               <l>Men of Great Souls, great Worth, and great Repute:</l>
+               <l>Whom Favour could not bribe, nor fear compel,</l>
+               <l>Their Priviledge to betray, nor Birth-right ſell;</l>
+               <l>The Glories of our <hi>Engliſh Iſrael;</hi>
+               </l>
+               <l>VVho in the Breach, 'gainſt all Oppoſers, ſtand</l>
+               <l>The City's Bulwark, Safe-guard of the Land,</l>
+               <l>Under Our <hi>Faith's Defender,</hi> whom we find</l>
+               <l>His Subjects to protect by Law inclin'd?</l>
+               <pb n="20" facs="tcp:59688:14"/>
+               <l>Who as their own, eſpouſe their Country's Cauſe,</l>
+               <l>And would not Juries pack, to wreſt the Laws?</l>
+               <l>Tho' <hi>Hackney-Pens</hi> ſhould Innocence defame,</l>
+               <l>Falſe Plots againſt good Patriots could Frame,</l>
+               <l>And <hi>Iriſh</hi> Evidence would Swear the ſame;</l>
+               <l>Yet theſe brave Men would highly ſcorn to Joyn,</l>
+               <l>Againſt Juſt Right, and ſecond their deſign;</l>
+               <l>Tho' other Pow'rs againſt them ſhould Combine;</l>
+               <l>They fear not great Mens Threats, nor Mulct, nor Fine.</l>
+               <l>Let nemies reproach, ill Tongues revile,</l>
+               <l>By baſeſt Acts, by Bribes, by Fraud and Guile,</l>
+               <l>Condemn the Innocent, the Guilty quit,</l>
+               <l>And make Law ſpeak, Juſt as they would have it,</l>
+               <l>Then ring the Bells, and <hi>Huzza</hi>-Healths drink round,</l>
+               <l>Undaunted <hi>Shrieves</hi> ſhall always ſtand their ground,</l>
+               <l>And be, in ſpight of Malice, Honeſt found.</l>
+               <l>The Country ſhall them laud, the City Sing</l>
+               <l>Of their high praiſe: how Loyal to their King,</l>
+               <pb n="21" facs="tcp:59688:14"/>
+               <l>How great, how good, how faithful to the State?</l>
+               <l>See, Fame, that thou to all do this relate.</l>
+               <l>Lift up thy Voice, and thy whole force unite,</l>
+               <l>Sound, and reſound their praiſe with all thy might.</l>
+               <l>Let all the Eccho of thy Trumpet hear,</l>
+               <l>In <hi>London,</hi> and all Places far and near,</l>
+               <l>That to their Merit all may <hi>Trophees</hi> rear.</l>
+               <l>Another blaſt make of Great <hi>London</hi>'s Glory,</l>
+               <l>So Fam'd in Antient and in Modern Story:</l>
+               <l>
+                  <hi>London,</hi> that Planet fix't, which doth diſpence</l>
+               <l>All o're the Nation its grand Influence.</l>
+               <l>But paſs not o're the good <hi>Lord Mayors</hi> Show;</l>
+               <l>For ſome were good, and ſome were bad, we know.</l>
+               <l>Good Mens great Deeds ſound forth, as faithful, true</l>
+               <l>Slight ſuch, whoſe Actions ſay, they ſlighted you.</l>
+            </lg>
+            <lg>
+               <l>Hold here. Refrain. Take breath, and ſo return</l>
+               <l>To the great <hi>Thynn,</hi> for whom we now muſt moum.</l>
+               <pb n="22" facs="tcp:59688:15"/>
+               <l>Thy Trumpet veil in Cypreſs, as 'tis due,</l>
+               <l>And put on Mourning Weeds of ſable Hue.</l>
+               <l>But firſt let's hear thee make a doleful Tone,</l>
+               <l>Moſt lively to expreſs a dying Grone,</l>
+               <l>The City ſighs, Friends cry, and Countries mone.</l>
+               <l>Hold there, and ſtop. What Marble can forbear</l>
+               <l>For <hi>Thynn</hi>'s untimely Death to drop a tear?</l>
+               <l>Unto his Memory Thouſands are to ſmall</l>
+               <l>A Tribute to be paid: Let's pay him all.</l>
+               <l>Hold, hold; leaſt that the Sluces of our Eyes</l>
+               <l>Pull'd up, ſo great a Deluge ſhould ariſe,</l>
+               <l>The Cataracts being open, as to drown</l>
+               <l>All places near, in Country, and in Town;</l>
+               <l>So great his Merit was, ſuch his Renown.</l>
+               <l>Or grief renew'd, our hearts ſhould faſter bleed,</l>
+               <l>Than he, who ſuffered, or, who did the deed.</l>
+               <l>In Mourning clad, ſee that thou next refound</l>
+               <l>In Heaven, in Earth, and Regions under ground,</l>
+               <pb n="23" facs="tcp:59688:15"/>
+               <l>Great <hi>Thynn</hi>'s ſad Murther, in a mournful tone,</l>
+               <l>Enough to make the Worlds Foundation grone.</l>
+               <l>Above, below, and in each dead Mans Cell,</l>
+               <l>Of <hi>Thynn</hi>'s fate let thy Trumpets Eccho tell.</l>
+               <l>Now here leave off a ſpace, to get more breath,</l>
+               <l>That thou may'ſt ſound more loud the great <hi>Thynn</hi>'s Death</l>
+               <l>But then involve in dark obſcurity</l>
+               <l>The Actors of this direful <hi>Tragedy:</hi>
+               </l>
+               <l>Let their's be the perpetual Infamy.</l>
+               <l>Of theſe Mens horrid Names no mention make,</l>
+               <l>Let them ſink deep, as Lead, in <hi>Lethe</hi> Lake.</l>
+               <l>Let their Memorials fret like canker'd ruſt,</l>
+               <l>And periſh in the Earths oblivious duſt.</l>
+               <l>That fatal ſhot, by which great <hi>Thynn</hi> did dye,</l>
+               <l>May ever ſerve to blaſt their Memory.</l>
+               <l>When theſe baſe ſtrangers to his Coach drew near,</l>
+               <l>How little did he his own Murther fear?</l>
+               <l>Of ſuch a treacherous Act who thought to hear?</l>
+               <pb n="24" facs="tcp:59688:16"/>
+               <l>Three Men to come well arm'd, what valiant skill</l>
+               <l>Shew'd it one ſingle Man, unarm'd, to kill?</l>
+               <l>But ſuch we find was the deſign'd intent,</l>
+               <l>To ſhoot, to kill, to fly, 'twas this was meant:</l>
+               <l>For this were theſe vile Murd'rers hir'd and ſent.</l>
+               <l>And with too great ſucceſs alaſs—</l>
+               <l>Who is't can chooſe but weep? But now refrain</l>
+               <l>We muſt, and from our griefs ſome reſpite gain,</l>
+               <l>Theſe Murderers to ſeek. Here ſound <hi>Thynn</hi>'s Friend,</l>
+               <l>Great <hi>Monmouth,</hi> who prov'd ſo unto his end.</l>
+               <l>Unto his Diligence ſound praiſes due,</l>
+               <l>The Murder to Revenge. Friendſhip moſt true,</l>
+               <l>A dying Friend's curſt Murd'rers to purſue!</l>
+               <l>Juſt his Reſentments, Laudable his Zeal,</l>
+               <l>Thoſe to detect, who friendſhips common-weal</l>
+               <l>Strove to deſtroy; who would a Sacrifice</l>
+               <l>Of all that's good, make to their Avarice.</l>
+               <pb n="25" facs="tcp:59688:16"/>
+               <l>Stop here a while, and next ſound forth the ſence,</l>
+               <l>We all ſhould have, of a juſt Providence.</l>
+               <l>That when themſelves ſecure the Murd'rers thought;</l>
+               <l>They were found out, and unto Juſtice brought.</l>
+               <l>Next Carols loudly ſound to <hi>Charles</hi> the good,</l>
+               <l>So careful to Revenge his Subjects blood;</l>
+               <l>He would not favour grant, nor pardon give,</l>
+               <l>But was reſolv'd, that they ſhould Dye, or Live,</l>
+               <l>As Law requir'd, as Juſtice did Command:</l>
+               <l>So may Great <hi>Charles</hi> for ever Rule the Land.</l>
+               <l>A little pauſe; and then to all Men ſound,</l>
+               <l>What puniſhment theſe baſe offenders found.</l>
+               <l>How the three Actors in this <hi>Tragedy,</hi>
+               </l>
+               <l>Were doom'd to Death, and by the Rope did dye.</l>
+               <l>As for the Principal, he's not thought clear,</l>
+               <l>Tho' ſome him quitted. Sound this far and near.</l>
+               <l>What muſt thy next blaſt be? Stay, take ſome breath;</l>
+               <l>How doleful is't to think of great <hi>Thynn</hi>'s Death?</l>
+               <pb n="28" facs="tcp:59688:17"/>
+               <l>But ſadder then ſtill to hear the doleful ſound</l>
+               <l>The great <hi>Thynn</hi>'s Corps is putting under ground.</l>
+               <l>However order keep. Publiſh his Dath,</l>
+               <l>
+                  <hi>Thynn, Thynn, Thynn,</hi> ſound thrice, and ſo take breath.</l>
+               <l>
+                  <hi>Thynn</hi>'s Dead, and to be buried. Doleful ſtory.</l>
+               <l>What's now become of all this great Mans Glory?</l>
+               <l>His ſad Fate tell's us, all is Tranſitory.</l>
+               <l>Next ſound the Funeral Pomp, ſad Obſequies,</l>
+               <l>(Badges as great of grief as Elegies)</l>
+               <l>The Streamers, Scutch'ons, and black Mourners throng,</l>
+               <l>With ſilence how profound all paſt along,</l>
+               <l>The Mournful Grandeure, and the ſolemn State,</l>
+               <l>Wherein the Corps (as was decreed by Fate)</l>
+               <l>Was carried to the <hi>Abbey.</hi> Next reſound,</l>
+               <l>How great <hi>Thynn</hi>'s Corps they laid in Sacred Ground</l>
+               <l>Then make one blaſt of the great Monument,</l>
+               <l>Which, we do truſt, it is his Friends intent</l>
+               <pb n="29" facs="tcp:59688:17" rendition="simple:additions"/>
+               <l>In <hi>Weſtminſter</hi> ſoon to erect a ſhrine</l>
+               <l>Fit to contain <hi>Thynn</hi>'s Reliques moſt Divine.</l>
+               <l>While we do hope, from Earth is fled his Soul,</l>
+               <l>His better part, and far above the Pole</l>
+               <l>Being mounted, happy is, and fully bleſt,</l>
+               <l>From Toyl Grief, Trouble, Eternally to reſt,</l>
+               <l>Thus I direct thee for <hi>Thynn</hi>'s Elegy,</l>
+               <l>To ſound his juſt praiſe to Eternity.</l>
+               <l>Next I direct Thee Fame, thy Voice to raiſe,</l>
+               <l>And Trumpet forth thoſe Engliſh Worthies praiſe,</l>
+               <l>Whoſe Names ſo precious are in theſe our days.</l>
+               <l>Throughout their Lives may Honour them attend,</l>
+               <l>And their Immortal Glory know no end.</l>
+               <l>Mine is the wiſh, thou Daughter of the Sphere</l>
+               <l>Thine is the Part to ſound them far and near.</l>
+               <l>Sum up their praiſes all in one long blaſt,</l>
+               <l>Ten Hundred Thouſand Ages for to laſt,</l>
+               <pb n="28" facs="tcp:59688:18" rendition="simple:additions"/>
+               <l>And ſound them forth? while I <hi>Thynn</hi>'s Mournful Herſe:</l>
+               <l>(The moſt that I can do) deck with this Verſe.</l>
+            </lg>
+            <q>
+               <l>Here Lies Great <hi>Thynn,</hi> Gentile in Birth, no Lord,</l>
+               <l>Yet more by us, than ſome ſuch Names, Ador'd.</l>
+               <l>His Country ask, if you would know his Life;</l>
+               <l>If of his Death, go, ask his unkind Wife.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59688:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
